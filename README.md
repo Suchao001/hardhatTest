@@ -54,3 +54,4 @@ The smart contract `RegisterDisaster.sol` contains the following functions:
 #### Fill in the Blanks
 
 Students are required to fill in the blank functions in the smart contract `RegisterDisaster.sol`:
+# hardhatTest
